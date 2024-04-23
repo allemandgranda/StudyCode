@@ -10,11 +10,7 @@ namespace CodingTracker
   {
     static void Main(string[] args)
     {
-<<<<<<< HEAD
-      Console.WriteLine("Hello, C# Academy! One more modification.");
-      Console.WriteLine("Hello, C# Academy! One more modification.");
-=======
->>>>>>> parent of 9dde334 (Console.WriteLine modified)
+      Console.WriteLine("Hello, C# Academy!");
     }
   }
 }
